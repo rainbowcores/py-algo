@@ -8,4 +8,4 @@ def numeric (data):
     return (s) 
 
 if __name__ == "__main__":
-    numeric((sys.argv[1]))
+    numeric()
